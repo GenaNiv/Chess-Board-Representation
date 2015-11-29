@@ -9,7 +9,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
-
+#include "BoardPrinting.h"
 //---PreDefiners----
 #define N 8
 
